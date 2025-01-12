@@ -6,6 +6,8 @@ Description
 
 ## Installation
 
+### Pre Commit Setup
+
 ```bash
 pip install -r requirements.txt
 pre-commit install
@@ -14,5 +16,5 @@ pre-commit install
 or
 
 ```bash
-make install
+make install-pre-commit
 ```
