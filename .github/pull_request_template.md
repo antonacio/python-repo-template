@@ -9,7 +9,7 @@
 
 ## How Has This Been Tested?
 
-- [x] `kedro run --pipeline <pipeline name>`
+- [ ] `<run command>`
 
 ## ✅ Checks
 <!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
